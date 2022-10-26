@@ -12,4 +12,3 @@ const connectdb =async () =>{
 };
 
 module.exports = connectdb;
-//k6rZD5t48UxtUVL
